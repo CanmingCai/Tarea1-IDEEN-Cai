@@ -1,6 +1,7 @@
 # tarea_ideen2
-
-This template should help get you started developing with Vue 3 in Vite.
+Tarea 1 IDEEN
+Canming Cai
+A01770368
 
 ## Recommended IDE Setup
 
